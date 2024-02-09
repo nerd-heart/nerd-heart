@@ -7,7 +7,7 @@ Olá Cliente! 👋
 </p>
 
 <p align="center">
-  <img src="/public/Banner My MVP.png" alt="Banner My MVP" />
+  <img src="/Nerdheart Logo.png" alt="Nerdheart Logo" />
   <img  src="https://img.shields.io/static/v1?label=license&message=MIT&color=blue" alt="License">   
 </p>
 
